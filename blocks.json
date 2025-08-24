@@ -1,0 +1,19 @@
+{
+  "format_version": "1.20.0",
+  "ww:packed_snow": {
+    "sound": "snow",
+    "textures": "packed_snow"
+  },
+  "ww:packed_snow_bricks": {
+    "sound": "stone",
+    "textures": "packed_snow_bricks"
+  },
+  "ww:ice_chest_locked": {
+    "sound": "glass",
+    "textures": "ice_chest_locked"
+  },
+  "ww:ice_chest_unlocked": {
+    "sound": "glass",
+    "textures": "ice_chest_unlocked"
+  }
+}

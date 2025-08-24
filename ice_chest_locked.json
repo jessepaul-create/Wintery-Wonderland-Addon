@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:block": {
+    "description": {
+      "identifier": "ww:ice_chest_locked"
+    },
+    "components": {
+      "minecraft:destroy_time": -1.0,
+      "minecraft:explosion_resistance": 3600000,
+      "minecraft:on_interact": {
+        "event": "ww:unlock",
+        "condition": "q.is_item_name_any('main_hand', 'ww:ice_key')"
+      }
+    },
+    "events": {
+      "ww:unlock": {
+        "run_command": {
+          "command": [
+            "playsound random.orb @p ~ ~ ~",
+            "setblock ~ ~ ~ ww:ice_chest_unlocked"
+          ]
+        },
+        "decrement_stack": {}
+      }
+    }
+  }
+}

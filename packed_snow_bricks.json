@@ -1,0 +1,16 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:block": {
+    "description": {
+      "identifier": "ww:packed_snow_bricks"
+    },
+    "components": {
+      "minecraft:destroy_time": 1.5,
+      "minecraft:flammable": {
+        "flame_odds": 0,
+        "burn_odds": 0
+      },
+      "minecraft:map_color": "#ADD8E6"
+    }
+  }
+}

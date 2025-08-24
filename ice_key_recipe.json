@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "ww:ice_key_recipe" },
+    "tags": ["crafting_table"],
+    "pattern": [ " S ", " S ", " I " ],
+    "key": {
+      "S": { "item": "minecraft:packed_ice" },
+      "I": { "item": "minecraft:iron_ingot" }
+    },
+    "result": { "item": "ww:ice_key", "count": 1 }
+  }
+}

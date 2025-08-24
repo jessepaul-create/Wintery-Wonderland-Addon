@@ -1,0 +1,5 @@
+tile.ww:packed_snow.name=Packed Snow
+tile.ww:packed_snow_bricks.name=Packed Snow Bricks
+tile.ww:ice_chest_locked.name=Ice Chest
+tile.ww:ice_chest_unlocked.name=Ice Chest
+item.ww:ice_key.name=Ice Key

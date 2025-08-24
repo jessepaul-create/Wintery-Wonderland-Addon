@@ -1,0 +1,18 @@
+{
+   "resource_pack_name": "WinteryWonders",
+   "texture_name": "atlas.terrain",
+   "texture_data": {
+      "packed_snow": {
+         "textures": "textures/blocks/packed_snow"
+      },
+      "packed_snow_bricks": {
+         "textures": "textures/blocks/packed_snow_bricks"
+      },
+      "ice_chest_locked": {
+         "textures": "textures/blocks/ice_chest_locked"
+      },
+      "ice_chest_unlocked": {
+         "textures": "textures/blocks/ice_chest_unlocked"
+      }
+   }
+}

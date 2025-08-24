@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Wintery Wonders BP",
+        "description": "Behavior pack for the Wintery Wonders addon.",
+        "uuid": "12c94bd5-d348-4368-8e01-a8974a487881",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 10]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "4df33ca7-07fc-4a3d-bef9-69bb362f0cf6",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "df62ff4d-045a-4d62-8163-e3d1babc1fa9",
+            "version": [1, 0, 0]
+        }
+    ]
+}

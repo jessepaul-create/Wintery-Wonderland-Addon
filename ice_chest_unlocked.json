@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:block": {
+    "description": {
+      "identifier": "ww:ice_chest_unlocked"
+    },
+    "components": {
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 2.0
+      },
+      "minecraft:loot": "loot_tables/blocks/ice_chest_unlocked.json"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "WinteryWonders",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "ice_key": {
+      "textures": "textures/items/ice_key"
+    }
+  }
+}
