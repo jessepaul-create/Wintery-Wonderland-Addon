@@ -1,0 +1,7 @@
+{
+  "loot_table": "loot_tables/blocks/ice_chest_unlocked.json",
+  "components": {
+    "destructible_by_mining": {},
+    "minecraft:loot": {}
+  }
+}
